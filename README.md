@@ -30,8 +30,8 @@ To run the project locally, follow these steps:
    - Create a Firebase project on the Firebase Console.
    - Obtain the Firebase configuration object (apiKey, authDomain, databaseURL, etc.).
    - Replace the Firebase configuration in `src/firebase.js` with your own Firebase project configuration.
-4. Start the development server: `npm start`
-5. Open the application in your browser: `http://localhost:3000`
+4. Start the development server: `npm run dev`
+5. Open the application in your browser
 
 ## Contributing
 
